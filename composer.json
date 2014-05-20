@@ -1,0 +1,23 @@
+{
+    "name": "zakharchenko/lara-pack",
+    "description": "",
+    "authors": [
+        {
+            "name": "Valery Zakharchenko",
+            "email": "valprogramm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Zakharchenko\\LaraPack\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
