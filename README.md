@@ -1,4 +1,4 @@
 laraPack
 ========
 
-laraPack test 
+Hi all!
